@@ -5,12 +5,17 @@ body {
     background-color: aliceblue;
 }
 
-youtube { 
 
+youtube { 
+    float:left; margin-left 20px;
     
 }
+
 
 family {
     float:left; margin-left 20px;
 }
 
+links {
+    text-align: right
+}
